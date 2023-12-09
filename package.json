@@ -1,0 +1,43 @@
+{
+    "name": "stratum-pool-pastel",
+    "version": "0.2.0",
+    "description": "High performance stratum pool server in Node.js, customized for use in Pastel Network",
+    "keywords": [
+        "stratum",
+        "mining",
+        "pool",
+        "server",
+        "poolserver",
+        "pastel"
+    ],
+    "homepage": "https://github.com/pastelnetwork/node-stratum-pool-pastel",
+    "bugs": {
+        "url": "https://github.com/pastelnetwork/node-stratum-pool-pastel/issues"
+    },
+    "license": "GPL-2.0",
+    "author": "s-nomp developers and Pastel Network developers",
+    "contributors": [
+        "egyptianbman",
+        "TheSeven",
+        "vekexasia",
+        "ayk",
+        "Dicklesworthstone"
+    ],
+    "main": "lib/index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pastelnetwork/node-stratum-pool-pastel"
+    },
+    "dependencies": {
+        "@bitgo/blake2b-wasm": "^3.2.3",
+        "@bitgo/utxo-lib": "^9.23.0",
+        "async": "^3.2.5",
+        "bignum": "^0.13.1",
+        "equihashverify": "^8.0.0",
+        "merkle-bitcoin": "^1.0.2",
+        "promise": "^8.3.0"
+    },
+    "engines": {
+        "node": "20.10.0"
+    }
+}
