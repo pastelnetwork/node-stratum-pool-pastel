@@ -32,6 +32,7 @@
         "@bitgo/blake2b-wasm": "^3.2.3",
         "@bitgo/utxo-lib": "^9.23.0",
         "async": "^3.2.5",
+        "axios": "^1.6.2",
         "bignum": "^0.13.1",
         "equihashverify": "^8.0.0",
         "merkle-bitcoin": "^1.0.2",
