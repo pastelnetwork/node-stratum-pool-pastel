@@ -36,7 +36,8 @@
         "bignum": "^0.13.1",
         "equihashverify": "^8.0.0",
         "merkle-bitcoin": "^1.0.2",
-        "promise": "^8.3.0"
+        "promise": "^8.3.0",
+        "redis": "^4.6.11"
     },
     "engines": {
         "node": "20.10.0"
