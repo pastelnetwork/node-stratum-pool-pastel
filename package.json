@@ -1,5 +1,5 @@
 {
-    "name": "stratum-pool-pastel",
+    "name": "stratum-pool",
     "version": "0.2.0",
     "description": "High performance stratum pool server in Node.js, customized for use in Pastel Network",
     "keywords": [
@@ -30,14 +30,14 @@
     },
     "dependencies": {
         "@bitgo/blake2b-wasm": "^3.2.3",
-        "@bitgo/utxo-lib": "^9.23.0",
+        "@bitgo/utxo-lib": "^9.33.0",
         "async": "^3.2.5",
-        "axios": "^1.6.2",
+        "axios": "^1.6.7",
         "bignum": "^0.13.1",
-        "equihashverify": "^8.0.0",
+        "equihashverify": "git+https://github.com/pastelnetwork/equihashverify-pastel.git",
         "merkle-bitcoin": "^1.0.2",
         "promise": "^8.3.0",
-        "redis": "^4.6.11"
+        "redis": "^4.6.12"
     },
     "engines": {
         "node": "20.10.0"
