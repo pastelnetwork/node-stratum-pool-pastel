@@ -30,11 +30,12 @@
     },
     "dependencies": {
         "@bitgo/blake2b-wasm": "^3.2.3",
-        "@bitgo/utxo-lib": "^9.23.0",
+        "@bitgo/utxo-lib": "^9.33.0",
         "async": "^3.2.5",
+        "base58-native": "^0.1.4",
         "axios": "^1.6.2",
         "bignum": "^0.13.1",
-        "equihashverify": "^8.0.0",
+        "equihashverify": "git+https://github.com/pastelnetwork/equihashverify-pastel.git",
         "merkle-bitcoin": "^1.0.2",
         "promise": "^8.3.0",
         "redis": "^4.6.11"
