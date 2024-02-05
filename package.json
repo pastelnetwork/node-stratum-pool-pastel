@@ -30,7 +30,7 @@
     },
     "dependencies": {
         "@bitgo/blake2b-wasm": "^3.2.3",
-        "@bitgo/utxo-lib": "^9.33.0",
+        "@pastelnetwork/psl-utxo-lib": "^1.2.5",
         "async": "^3.2.5",
         "base58-native": "^0.1.4",
         "axios": "^1.6.2",
