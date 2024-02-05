@@ -30,7 +30,7 @@
     },
     "dependencies": {
         "@bitgo/blake2b-wasm": "^3.2.3",
-        "@pastelnetwork/psl-utxo-lib": "^1.2.4",
+        "@pastelnetwork/psl-utxo-lib": "git+https://github.com/pastelnetwork/bitcoinjs-lib-pastel.git",
         "async": "^3.2.5",
         "base58-native": "^0.1.4",
         "axios": "^1.6.2",
