@@ -37,7 +37,7 @@
         "bignum": "^0.13.1",
         "equihashverify": "git+https://github.com/pastelnetwork/equihashverify-pastel.git",
         "merkle-bitcoin": "^1.0.2",
-        "pastel_nodejs_client": "^1.0.0",
+        "pastel_nodejs_client": "^1.0.1",
         "promise": "^8.3.0",
         "redis": "^4.6.11"
     },
