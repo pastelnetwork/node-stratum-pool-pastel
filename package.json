@@ -32,11 +32,12 @@
         "@bitgo/blake2b-wasm": "^3.2.3",
         "@pastelnetwork/psl-utxo-lib": "git+https://github.com/pastelnetwork/bitcoinjs-lib-pastel.git",
         "async": "^3.2.5",
-        "base58-native": "^0.1.4",
         "axios": "^1.6.2",
+        "base58-native": "^0.1.4",
         "bignum": "^0.13.1",
         "equihashverify": "git+https://github.com/pastelnetwork/equihashverify-pastel.git",
         "merkle-bitcoin": "^1.0.2",
+        "pastel_nodejs_client": "^1.0.0",
         "promise": "^8.3.0",
         "redis": "^4.6.11"
     },
