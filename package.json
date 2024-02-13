@@ -35,7 +35,7 @@
         "axios": "^1.6.2",
         "base58-native": "^0.1.4",
         "bignum": "^0.13.1",
-        "equihashverify": "git+https://github.com/pastelnetwork/equihashverify-pastel.git",
+        "equihash-node-binding": "git+https://github.com/pastelnetwork/equihash-node-binding",
         "merkle-bitcoin": "^1.0.2",
         "pastel_nodejs_client": "git+https://github.com/pastelnetwork/pastel_nodejs_client.git",
         "promise": "^8.3.0",
