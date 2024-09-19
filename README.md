@@ -41,7 +41,7 @@ Features
 
 Requirements
 ------------
-* node v8.11
+* node v20.17.0
 * coin daemon (preferably one with a relatively updated API and not some crapcoin :p)
 
 

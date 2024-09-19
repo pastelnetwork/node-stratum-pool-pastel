@@ -1,6 +1,6 @@
 {
     "name": "stratum-pool-pastel",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "description": "High performance stratum pool server in Node.js, customized for use in Pastel Network",
     "keywords": [
         "stratum",
@@ -42,6 +42,6 @@
         "redis": "^4.6.11"
     },
     "engines": {
-        "node": "20.10.0"
+        "node": "20.17.0"
     }
 }
